@@ -1,0 +1,3 @@
+2020-09-08 11:43:31 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PROJECTS" not found; SQL statement:
+SELECT * FROM PROJECTS [42102-200]
